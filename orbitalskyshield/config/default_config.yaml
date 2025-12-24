@@ -1,0 +1,29 @@
+# Default Configuration for OrbitalSkyShield
+
+site:
+  name: "ObservatoryX"
+  location: 
+    lat: 0.0
+    lon: 0.0
+    elev: 0.0
+
+instrument:
+  pixel_scale: 0.5 # arcsec/pixel
+  gain: 1.0
+  read_noise: 5.0
+  saturation: 60000
+
+detection:
+  method: "baseline"
+  threshold_sigma: 5.0
+  min_streak_length: 50 # pixels
+  line_width: 3 # pixels to mask around streak
+
+odc:
+  method: "mvp_background_residual"
+  bootstrap_samples: 100
+
+output:
+  save_masks: true
+  save_quality: true
+  directory: "./out"

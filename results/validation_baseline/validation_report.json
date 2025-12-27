@@ -1,0 +1,2685 @@
+{
+  "detector": "baseline_sigma5.0",
+  "dataset": "test",
+  "summary": {
+    "num_frames": 333,
+    "mean_iou": 0.3303303303303303,
+    "std_iou": 0.4703320137883293,
+    "median_iou": 0.0,
+    "mean_precision": 0.0,
+    "mean_recall": 0.0,
+    "mean_f1": 0.0,
+    "global_precision": 0.0,
+    "global_recall": 0.0,
+    "global_f1": 0.0,
+    "total_tp": 0,
+    "total_fp": 0,
+    "total_fn": 10117360
+  },
+  "per_frame_details": [
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 1,
+      "num_pred_streaks": 0
+    },
+    {
+      "iou": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "num_gt_streaks": 0,
+      "num_pred_streaks": 0
+    }
+  ]
+}

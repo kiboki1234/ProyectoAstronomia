@@ -139,6 +139,7 @@ ProyectoAstronomia/
 
 ## 📖 Documentation
 
+- **[📄 Leer Paper Científico (Markdown)](docs/paper_v0.2_es.md)** - **NUEVO:** Versión web completa con imágenes.
 - **[User Guide v0.2](docs/user_guide_v0.2.md)** - Complete usage documentation
 - **[Validation Results](results/validation_summary.md)** - Detector performance analysis
 - **[Implementation Plan](docs/implementation_plan.md)** - Roadmap through v2.0

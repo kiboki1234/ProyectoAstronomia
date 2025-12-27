@@ -39,16 +39,16 @@ OrbitalSkyShield procesa imágenes a través de un pipeline modular.
 
 ```mermaid
 graph TD
-    A[Imagen de Entrada] -->|FITS/JPEG| B(Carga & Preprocesamiento);
-    B -->|Normalización| C{Detector};
-    C -->|AdaptiveDetector| D[Umbralización Estadística];
-    C -->|Physical Sky Model| E[Estimación ODC];
-    D -->|Máscara Binaria| F(Validación Geométrica);
-    F -->|Filtrado| G[Máscara de Estelas];
-    E -->|Cálculo Residual| H[Reporte ODC];
-    G --> I[Salida Final];
+    A["Imagen de Entrada"] -->|FITS/JPEG| B("Carga & Preprocesamiento");
+    B -->|Normalización| C{"Detector"};
+    C -->|"AdaptiveDetector"| D["Umbralización Estadística"];
+    C -->|"Physical Sky Model"| E["Estimación ODC"];
+    D -->|"Máscara Binaria"| F("Validación Geométrica");
+    F -->|Filtrado| G["Máscara de Estelas"];
+    E -->|"Cálculo Residual"| H["Reporte ODC"];
+    G --> I["Salida Final"];
     H --> I;
-    I -->|Archivos| J[Resultados (.fits, .json)];
+    I -->|Archivos| J["Resultados (.fits, .json)"];
 ```
 
 ---

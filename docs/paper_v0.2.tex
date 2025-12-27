@@ -24,7 +24,7 @@
 \maketitle
 
 \begin{abstract}
-We present \textbf{OrbitalSkyShield}, an open-source Python package for detecting satellite streaks in astronomical images and estimating the Orbital Diffuse Contribution (ODC) to sky brightness. Unlike existing tools, OrbitalSkyShield implements a physically-motivated model of natural sky brightness (Krisciunas \& Schaefer 1991) to separate satellite contamination from lunar and atmospheric contributions. We validate our adaptive detection algorithm on a labeled dataset of 333 astronomical images, achieving 82.77\% precision. Our physical ODC model successfully accounts for lunar phase, atmospheric scattering, and observational geometry. The tool is designed for integration into observatory pipelines and provides reproducible, scientifically rigorous measurements of satellite impact on astronomical observations.
+We present \textbf{OrbitalSkyShield}, an open-source Python package for detecting satellite streaks in astronomical images and estimating the Orbital Diffuse Contribution (ODC) to sky brightness. Unlike existing tools, OrbitalSkyShield implements a physically-motivated model of natural sky brightness (Krisciunas \& Schaefer 1991) to separate satellite contamination from lunar and atmospheric contributions. We validate our adaptive detection algorithm on a labeled dataset of 333 astronomical images, achieving 82.77\% precision. We also implement a physical ODC model that accounts for lunar phase, atmospheric scattering, and observational geometry, designed for use with FITS data. The tool is designed for integration into observatory pipelines and provides reproducible, scientifically rigorous measurements of satellite impact on astronomical observations.
 
 \textbf{Keywords:} satellite streaks, light pollution, sky brightness, astronomical instrumentation, image processing
 \end{abstract}
@@ -55,11 +55,12 @@ In this work, we present:
 \section{Methods}
 
 \subsection{Streak Detection Algorithm}
-Our \textbf{AdaptiveDetector} approach utilizes a three-stage process:
+Our \textbf{AdaptiveDetector} (v0.2) utilizes a purely statistical Image Processing approach, distinct from Machine Learning methods. It processes each image independently through a three-stage pipeline:
 \begin{enumerate}
-    \item \textbf{Percentile thresholding:} Identifies the top $N$\% brightest pixels.
-    \item \textbf{Morphological filtering:} Performs connected component analysis to group pixels.
-    \item \textbf{Geometric validation:} Filters regions based on aspect ratio (requiring $\ge 3:1$).
+    \item \textbf{Input Processing:} Accepts single-channel astronomical images (FITS or JPEG).
+    \item \textbf{Adaptive Thresholding:} Calculates the statistical percentile (typically $p=95-97$th) of the image histograms to generate a binary mask of the brightest pixels, effectively ignoring the background noise floor.
+    \item \textbf{Morphological Filtering:} Performs connected component analysis to group adjacent pixels into potential objects.
+    \item \textbf{Geometric Validation:} Filters these objects based on their properties. We enforce a minimum Aspect Ratio ($\ge 3:1$) to distinguish linear satellite streaks from circular stars or random noise.
 \end{enumerate}
 
 This method offers several advantages over classical edge-based approaches (like Canny edge detection), as it is robust to image compression artifacts and avoids fragmentation of streaks.
@@ -164,7 +165,7 @@ Improved & 0\% & 0\% & 0.28 & 0 \\
 \end{figure}
 
 \subsection{Physical ODC Model Validation}
-The physical model components (defined in Methods) allow for the separation of natural components (Lunar, Rayleigh) from the observed signal. While full validation is ongoing, preliminary theoretical calculations suggest the ability to detect ODC contributions as residuals above the natural background, specifically in cases where $\text{ODC} > 5\%$ of the sky flux.
+The physical model components (defined in Methods) are implemented based on the standard equations from \citet{Krisciunas1991}. \textbf{Note on Validation:} Empirical validation of the ODC module was not performed in this study because the test dataset consists of compressed JPEG images lacking the necessary FITS headers (observation date, coordinates) required to model the natural sky background. Consequently, the ODC results presented are theoretical capabilities of the software when provided with correct FITS data, rather than empirically measured values from the test set.
 
 \section{Discussion}
 Our AdaptiveDetector provides a reliable, non-ML baseline for streak detection. The high precision (82.77\%) allows for confident identification of contaminated frames. The failure of classical methods highlights the difficulty of working with compressed public data.
@@ -179,7 +180,7 @@ We presented OrbitalSkyShield, an open-source tool for satellite streak detectio
     \item The framework is open-source and FITS-native, facilitating community adoption.
 \end{enumerate}
 
-Future work will focus on integrating Machine Learning detectors to improve recall and adding multi-wavelength support.
+Future work (v0.3+) will focus on developing Deep Learning models (e.g., U-Net or YOLO) trained on this validated dataset. The statistical baseline established in this work will serve as a benchmark to evaluate the performance of these future AI-based detectors, particularly in improving recall for faint streaks which are currently missed by the adaptive thresholding.
 
 \section*{Data Availability}
 The code is available at \url{https://github.com/yourusername/ProyectoAstronomia}. The validation dataset and results are included in the repository.

@@ -1,11 +1,17 @@
+# Author: Andres Espin
+# Email: aaespin3@espe.edu.ec
+# Role: Junior Developer
+# Purpose: Independent Research Study
+
 from setuptools import setup, find_packages
 
 setup(
     name="orbitalskyshield",
     version="0.2.0",
     description="Satellite streak detection and orbital diffuse contribution estimation.",
-    author="Antigravity",
-    author_email="antigravity@example.com",
+    author="Andres Espin",
+    author_email="aaespin3@espe.edu.ec",
+    url="https://github.com/kiboki1234/ProyectoAstronomia",
     packages=find_packages(),
     install_requires=[
         "astropy>=5.0",

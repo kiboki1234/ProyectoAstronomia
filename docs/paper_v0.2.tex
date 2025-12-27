@@ -11,8 +11,8 @@
 
 % Title and Author
 \title{\textbf{OrbitalSkyShield: Open-Source Detection and Physical Modeling of Satellite Streak Contamination in Astronomical Imaging}}
-\author[1]{Your Name}
-\author[2]{Co-Author Name}
+\author[1]{Andres Espin\thanks{Corresponding author: aaespin3@espe.edu.ec}}
+\author[1]{(Junior Developer - Independent Research)}
 
 \affil[1]{Department of Astronomy, University of Example}
 \affil[2]{Department of Computer Science, University of Example}
@@ -27,6 +27,9 @@
 We present \textbf{OrbitalSkyShield}, an open-source Python package for detecting satellite streaks in astronomical images and estimating the Orbital Diffuse Contribution (ODC) to sky brightness. Unlike existing tools, OrbitalSkyShield implements a physically-motivated model of natural sky brightness (Krisciunas \& Schaefer 1991) to separate satellite contamination from lunar and atmospheric contributions. We validate our adaptive detection algorithm on a labeled dataset of 333 astronomical images, achieving 82.77\% precision. We also implement a physical ODC model that accounts for lunar phase, atmospheric scattering, and observational geometry, designed for use with FITS data. The tool is designed for integration into observatory pipelines and provides reproducible, scientifically rigorous measurements of satellite impact on astronomical observations.
 
 \textbf{Keywords:} satellite streaks, light pollution, sky brightness, astronomical instrumentation, image processing
+
+\vspace{1cm}
+\textbf{Author Note:} This work is an independent research study developed for educational and technical problem-solving purposes. It does not constitute a peer-reviewed academic publication.
 \end{abstract}
 
 \section{Introduction}
@@ -183,7 +186,7 @@ We presented OrbitalSkyShield, an open-source tool for satellite streak detectio
 Future work (v0.3+) will focus on developing Deep Learning models (e.g., U-Net or YOLO) trained on this validated dataset. The statistical baseline established in this work will serve as a benchmark to evaluate the performance of these future AI-based detectors, particularly in improving recall for faint streaks which are currently missed by the adaptive thresholding.
 
 \section*{Data Availability}
-The code is available at \url{https://github.com/yourusername/ProyectoAstronomia}. The validation dataset and results are included in the repository.
+The code is available at \url{https://github.com/kiboki1234/ProyectoAstronomia}. The validation dataset and results are included in the repository.
 
 \begin{thebibliography}{99}
 

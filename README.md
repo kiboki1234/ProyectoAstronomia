@@ -5,12 +5,20 @@
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## ⚠️ Project Disclaimer
+**This is an independent research project developed by a Junior Developer.**  
+It is intended as a solution-oriented study to address satellite contamination in astronomical images. **It is not a peer-reviewed academic paper.**
+
+**Author:** Andres Espin (Junior Developer)  
+**Email:** aaespin3@espe.edu.ec  
+**Role:** Lead Developer & Researcher
+
 ## 🌟 What is OrbitalSkyShield?
 
-OrbitalSkyShield is a scientific tool for:
-1. **Detecting satellite streaks** in astronomical images (FITS/JPEG)
-2. **Estimating ODC (Orbital Diffuse Contribution)** - the light pollution from satellites
-3. **Validating detectors** against ground truth data
+OrbitalSkyShield is a scientific tool designed to:
+1. **Detect satellite streaks** in astronomical images (FITS/JPEG)
+2. **Estimate ODC (Orbital Diffuse Contribution)** - the light pollution from satellites
+3. **Validate detectors** against ground truth data
 
 ### Key Features (v0.2)
 
@@ -28,7 +36,7 @@ OrbitalSkyShield is a scientific tool for:
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/ProyectoAstronomia.git
+git clone https://github.com/kiboki1234/ProyectoAstronomia.git
 cd ProyectoAstronomia
 
 # Create virtual environment
@@ -247,9 +255,9 @@ MIT License - see [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- **Issues:** [GitHub Issues](https://github.com/yourusername/ProyectoAstronomia/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/yourusername/ProyectoAstronomia/discussions)
-- **Email:** your.email@example.com
+- **Issues:** [GitHub Issues](https://github.com/kiboki1234/ProyectoAstronomia/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/kiboki1234/ProyectoAstronomia/discussions)
+- **Email:** aaespin3@espe.edu.ec (Andres Espin)
 
 ---
 
@@ -267,10 +275,11 @@ MIT License - see [LICENSE](LICENSE) file
 ```bibtex
 @software{orbitalskyshield2025,
   title = {OrbitalSkyShield: Detection and Mitigation of Satellite Streaks},
-  author = {Your Name},
+  author = {Andres Espin},
   year = {2025},
   version = {0.2.0},
-  url = {https://github.com/yourusername/ProyectoAstronomia}
+  url = {https://github.com/kiboki1234/ProyectoAstronomia},
+  note = {Independent Research Project}
 }
 ```
 

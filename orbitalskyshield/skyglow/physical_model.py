@@ -1,3 +1,8 @@
+# Author: Andres Espin
+# Email: aaespin3@espe.edu.ec
+# Role: Junior Developer
+# Purpose: Independent Research Study
+
 """
 Physical sky brightness model for natural sky background estimation.
 

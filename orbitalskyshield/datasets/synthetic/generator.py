@@ -1,3 +1,8 @@
+# Author: Andres Espin
+# Email: aaespin3@espe.edu.ec
+# Role: Junior Developer
+# Purpose: Independent Research Study
+
 import numpy as np
 from typing import List, Tuple, Optional
 from ...core.types import FrameData, MaskData

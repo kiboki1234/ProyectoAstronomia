@@ -1,3 +1,8 @@
+# Author: Andres Espin
+# Email: aaespin3@espe.edu.ec
+# Role: Junior Developer
+# Purpose: Independent Research Study
+
 from typing import List, Dict
 import numpy as np
 from ..core.types import FrameQuality, NightReport

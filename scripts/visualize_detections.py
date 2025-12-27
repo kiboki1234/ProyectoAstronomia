@@ -1,4 +1,9 @@
 #!/usr/bin/env python
+# Author: Andres Espin
+# Email: aaespin3@espe.edu.ec
+# Role: Junior Developer
+# Purpose: Independent Research Study
+
 """
 Visualize detector output on sample images.
 

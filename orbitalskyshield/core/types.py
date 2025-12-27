@@ -1,3 +1,8 @@
+# Author: Andres Espin
+# Email: aaespin3@espe.edu.ec
+# Role: Junior Developer
+# Purpose: Independent Research Study
+
 from dataclasses import dataclass
 from typing import List, Dict, Any, Optional, Union
 import numpy as np

@@ -1,3 +1,8 @@
+# Author: Andres Espin
+# Email: aaespin3@espe.edu.ec
+# Role: Junior Developer
+# Purpose: Independent Research Study
+
 import numpy as np
 from typing import Tuple
 from skimage.transform import hough_line, hough_line_peaks
